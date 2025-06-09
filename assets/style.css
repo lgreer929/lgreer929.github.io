@@ -1,0 +1,44 @@
+:root {
+  --primary: #006d77;
+  --secondary: #83c5be;
+  --background: #edf6f9;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--background);
+  color: var(--primary);
+  margin: 0;
+  padding: 1rem;
+}
+
+header {
+  background-color: var(--primary);
+  color: white;
+  padding: 1rem;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav a {
+  margin-right: 1rem;
+  color: var(--background);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  color: var(--primary);
+}
