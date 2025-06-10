@@ -7,9 +7,9 @@ title: My Portfolio
 
 ## About Me
 
-<img src="assets/images/me.jpg" alt="Photo of Me" style="width:200px;border-radius:10px;margin-bottom:10px;">
+<img src="assets/images/me.JPG" alt="Photo of Me" style="width:200px;border-radius:10px;margin-bottom:10px;">
 
-Hi! I'm a data analyst passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more. This site showcases some of my recent projects.
+Hi! I'm a Data Analyst based out of Colorado who is passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more to help clients make sense of their data. This site showcases some of my recent projects. My background includes working across many domains, from healthcare to education, that gives me a wide lense of experience to pull from in my analyses. 
 
 ---
 
@@ -19,20 +19,20 @@ Hi! I'm a data analyst passionate about turning data into actionable insights. I
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center;">
   <img src="assets/images/project1.jpg" alt="Project 1" style="width:100%; border-radius: 8px;">
-  <h3><a href="https://github.com/yourusername/project1">Sales Dashboard</a></h3>
-  <p>Interactive dashboard built with Tableau to visualize regional sales performance.</p>
+  <h3><a href="https://github.com/lgreer929/Python-Sample">Sales and Customer Analysis</a></h3>
+  <p>Utilizing Python to clean, wrangle, analyze, and visualize data for Instacart sales trends.</p>
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center;">
   <img src="assets/images/project2.jpg" alt="Project 2" style="width:100%; border-radius: 8px;">
-  <h3><a href="https://github.com/yourusername/project2">Customer Segmentation</a></h3>
-  <p>K-means clustering in Python to identify target customer groups.</p>
+  <h3><a href="https://github.com/lgreer929/Citi_Bike">Customer Usage Dashboard</a></h3>
+  <p>Analysis of seasonal and user trends in Python to evalute product demand.</p>
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center;">
   <img src="assets/images/project3.jpg" alt="Project 3" style="width:100%; border-radius: 8px;">
-  <h3><a href="https://github.com/yourusername/project3">Web Scraping App</a></h3>
-  <p>Scraped product reviews using BeautifulSoup and visualized key themes.</p>
+  <h3><a href="https://github.com/lgreer929/USA-Real-Estate-Market">Dashboard of US Housing Market</a></h3>
+  <p>K-means clustering in Python to identify factors in housing costs.</p>
 </div>
 
 </div>
@@ -49,6 +49,6 @@ You can download my resume below:
 
 ## Contact Me
 
-Feel free to reach out via email:
+Questions? Comments? Thoughts?:
 
-📧 [youremail@example.com](mailto:youremail@example.com)
+📧 [Click Here to E-Mail Me!](mailto:lisa.greer@comcast.net)
