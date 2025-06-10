@@ -9,7 +9,7 @@ title: My Portfolio
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="assets/images/me.jpg" alt="Photo of Me" style="width:200px; border-radius:10px; flex-shrink: 0;">
+  <img src="assets/images/me.JPG" alt="Photo of Me" style="width:200px; border-radius:10px; flex-shrink: 0;">
 
   <div style="max-width: 600px;">
     <p>
