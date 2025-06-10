@@ -7,9 +7,17 @@ title: My Portfolio
 
 ## About Me
 
-<img src="assets/images/me.JPG" alt="Photo of Me" style="width:200px;border-radius:10px;margin-bottom:10px;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-Hi! I'm a Data Analyst based out of Colorado who is passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more to help clients make sense of their data. This site showcases some of my recent projects. My background includes working across many domains, from healthcare to education, that gives me a wide lense of experience to pull from in my analyses. 
+  <img src="assets/images/me.jpg" alt="Photo of Me" style="width:200px; border-radius:10px; flex-shrink: 0;">
+
+  <div style="max-width: 600px;">
+    <p>
+      Hi! I'm a Data Analyst based out of Colorado who is passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more to help clients make sense of their data. This site showcases some of my recent projects. My background includes working across many domains, from healthcare to education, that gives me a wide lense of experience to pull from in my analyses.
+    </p>
+  </div>
+
+</div>
 
 ---
 
