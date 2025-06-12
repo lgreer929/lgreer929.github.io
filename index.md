@@ -32,21 +32,21 @@ title: Lisa Greer - Data Analyst Portfolio
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.2s;">
     <img src="assets/images/project1.jpg" alt="Project 1" style="width:100%; border-radius: 8px;">
-    <h3><a href="https://github.com/your-username/instacart-analysis" style="color: #004d66; text-decoration: none;">Sales and Customer Analysis</a></h3>
+    <h3><a href="https://github.com/lgreer929/Python-Sample" style="color: #004d66; text-decoration: none;">Sales and Customer Analysis</a></h3>
     <p style="font-size: 0.95em;">Utilized Python to clean, wrangle, analyze, and visualize data for Instacart sales trends.</p>
     <a href="assets/project1.pdf" style="color: #990099;">Download Case Study Here</a>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.2s;">
     <img src="assets/images/project2.jpg" alt="Project 2" style="width:100%; border-radius: 8px;">
-    <h3><a href="https://github.com/your-username/real-estate" style="color: #004d66; text-decoration: none;">Customer Usage Analysis</a></h3>
+    <h3><a href="https://github.com/lgreer929/Citi_Bike" style="color: #004d66; text-decoration: none;">Customer Usage Analysis</a></h3>
     <p style="font-size: 0.95em;">Analysis of seasonal and user trends in Python to evalute product demand.</p>
     <a href="assets/project2.pdf" style="color: #990099;">Download Case Study Here</a>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.2s;">
     <img src="assets/images/project3.jpg" alt="Project 3" style="width:100%; border-radius: 8px;">
-    <h3><a href="https://github.com/your-username/transport-usage" style="color: #004d66; text-decoration: none;">Trends in the US Housing Market</a></h3>
+    <h3><a href="https://github.com/lgreer929/USA-Real-Estate-Market" style="color: #004d66; text-decoration: none;">Trends in the US Housing Market</a></h3>
     <p style="font-size: 0.95em;">K-means clustering in Python to identify factors in housing costs.</p>
     <a href="assets/project3.pdf" style="color: #990099;">Download Case Study Here</a>
   </div>
@@ -66,7 +66,7 @@ title: Lisa Greer - Data Analyst Portfolio
 
 ## <span style="font-size: 1.8em; color: #006680;">Contact Me</span>
 
-<form action="mailto:your.email@example.com" method="post" enctype="text/plain">
+<form action="mailto:lisa.greer@comcast.net" method="post" enctype="text/plain">
   <label for="name" style="display:block; margin-bottom:5px;">Name:</label>
   <input type="text" name="name" style="width:100%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;">
 
