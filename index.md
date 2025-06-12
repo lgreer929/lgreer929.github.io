@@ -66,7 +66,7 @@ title: Lisa Greer - Data Analyst Portfolio
 
 ## <span style="font-size: 1.5em; color: #006680;">Contact Me</span>
 
-<form action="mailto:lisa.greer@comcast.net" method="post" enctype="text/plain">
+<form target="_blank" action="https://formsubmit.co/lisa.greer@comacst.net" method="POST">
   <label for="name" style="display:block; margin-bottom:5px;">Name:</label>
   <input type="text" name="name" style="width:25%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;">
 
