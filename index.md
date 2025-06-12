@@ -13,9 +13,10 @@ title: My Portfolio
 
   <div style="max-width: 600px;">
     <p>
-      Hi! I'm a Data Analyst based out of Colorado who is passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more to help clients make sense of their data. This site showcases some of my recent projects. My background includes working across many domains, from healthcare to education, that gives me a wide lense of experience to pull from in my analyses.<br>
-
-      I'm an avid traveler and absolutely love working in cross-cultural contexts. As a former resident of Spain I'm a lifelong Spanish learner. When I'm not working I can be found exploring the mountains via rock climbing, biking, or running. 
+      Hi! I'm a Data Analyst based out of Colorado who is passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more to help clients make sense of their data. This site showcases some of my recent projects. My background includes working across many domains, from healthcare to education, that gives me a wide lense of experience to pull from in my analyses.
+    </p>
+    <p>
+       I'm an avid traveler and absolutely love working in cross-cultural contexts. As a former resident of Spain I'm a lifelong Spanish learner. When I'm not working I can be found exploring the mountains via rock climbing, biking, or running. 
     </p>
   </div>
 
