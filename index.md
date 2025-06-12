@@ -10,15 +10,15 @@ title: Lisa Greer - Data Analyst Portfolio
   }
 </style>
 
-# <span style="font-size: 3em; font-weight: bold;">Welcome to My Portfolio</span>
+# <span style="font-size: 2em; font-weight: bold;">Welcome to My Portfolio</span>
 
 ---
 
-## <span style="font-size: 2em; color: #004d66;">About Me</span>
+## <span style="font-size: 1.5em; color: #004d66;">About Me</span>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="assets/images/me.jpg" alt="Photo of Lisa Greer" style="width: 200px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p style="flex: 1; font-size: 1.1em;">
+  <p style="flex: 1; font-size: 1em;">
     Hi! I'm Lisa, a Data Analyst based out of Colorado who is passionate about turning data into actionable insights. I work with Python, SQL, Tableau, and more to help clients make sense of their data. This site showcases some of my recent projects. My background includes working across many domains, from healthcare to education, that gives me a wide lense of experience to pull from in my analyses. <br>
     I'm an avid traveler and absolutely love working in cross-cultural contexts. As a former resident of Spain I'm a lifelong Spanish learner. When I'm not working I can be found exploring the mountains via rock climbing, biking, or running. 
   </p>
@@ -26,7 +26,7 @@ title: Lisa Greer - Data Analyst Portfolio
 
 ---
 
-## <span style="font-size: 1.8em; color: #006680;">Projects</span>
+## <span style="font-size: 1.5em; color: #006680;">Projects</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 20px;">
 
@@ -55,26 +55,26 @@ title: Lisa Greer - Data Analyst Portfolio
 
 ---
 
-## <span style="font-size: 1.8em; color: #006680;">Resume</span>
+## <span style="font-size: 1.5em; color: #006680;">Resume</span>
 
-<p style="font-size: 1.1em;">
+<p style="font-size: 1em;">
   You can download my resume here:  
   <a href="assets/resume.pdf" style="color: #004d66; font-weight: bold;">Resume (PDF)</a>
 </p>
 
 ---
 
-## <span style="font-size: 1.8em; color: #006680;">Contact Me</span>
+## <span style="font-size: 1.5em; color: #006680;">Contact Me</span>
 
 <form action="mailto:lisa.greer@comcast.net" method="post" enctype="text/plain">
   <label for="name" style="display:block; margin-bottom:5px;">Name:</label>
-  <input type="text" name="name" style="width:100%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;">
+  <input type="text" name="name" style="width:50%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;">
 
   <label for="email" style="display:block; margin-bottom:5px;">Email:</label>
-  <input type="email" name="email" style="width:100%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;">
+  <input type="email" name="email" style="width:50%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;">
 
   <label for="message" style="display:block; margin-bottom:5px;">Message:</label>
-  <textarea name="message" rows="6" style="width:100%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;"></textarea>
+  <textarea name="message" rows="6" style="width:50%; padding:10px; margin-bottom:15px; border-radius:5px; border:1px solid #ccc;"></textarea>
 
   <button type="submit" style="background-color:#004d66; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:5px; cursor:pointer;">
     Submit
